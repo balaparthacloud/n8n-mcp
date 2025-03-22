@@ -2,6 +2,19 @@
 
 # n8n
 
+n8n is a powerful workflow automation platform that enables users to connect different services and automate tasks through a visual workflow editor. It provides:
+
+- **Node-based Workflows**: Create workflows by connecting nodes representing different services and actions
+- **400+ Integrations**: Pre-built nodes for popular services like GitHub, Slack, Google Sheets, and more
+- **Self-hosted Option**: Can be deployed on your own infrastructure for complete data control
+- **Fair-code Licensed**: Source code is available and can be self-hosted freely
+- **Visual Builder**: Intuitive drag-and-drop interface for building workflows
+- **Error Handling**: Built-in error handling and retry mechanisms
+- **Webhooks Support**: Trigger workflows via HTTP requests
+- **Custom Functions**: Write custom JavaScript code nodes for advanced logic
+
+For more information, visit [n8n.io](https://n8n.io)
+
 
 # MCP (Model Context Protocol)
 
