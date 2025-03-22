@@ -45,3 +45,7 @@ The protocol consists of:
 4. Extension Points
 
 For detailed implementation guidelines, see the [MCP Specification](docs/mcp-spec.md).
+
+
+#### n8n & MCP flow diagram - job search between scheduler and whatsapp
+
